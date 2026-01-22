@@ -1,0 +1,22 @@
+{
+	"port": "pretty-wacky",
+	"classic": true,
+	"credits_old": "Lexicord",
+	"color": "#FFFFFF",
+	"version": "V2.5",
+	"opponentModeAllowed": false,
+	"difficulties": [
+		"cool",
+		"v1",
+		"normal",
+		"easy",
+		"hard"
+	],
+	"icon": "douyhe",
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "he-hates-me",
+	"beatsPerMeasure": 4,
+	"needsVoices": true,
+	"bpm": 129
+}

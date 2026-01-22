@@ -1,0 +1,12 @@
+{
+	"displayName": "trojan-virus",
+	"bpm": 180.0,
+	"icon": "ronpower",
+	"difficulties": [
+		"HARD",
+		"2.5"
+	],
+	"port": "trojan-virus",
+	"color": "#F6B604",
+	"version": "V3/2.5"
+}

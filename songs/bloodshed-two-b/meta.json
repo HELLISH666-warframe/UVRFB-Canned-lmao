@@ -1,0 +1,12 @@
+{
+	"displayName": "bloodshed-two-b",
+	"bpm": 140.0,
+	"icon": "extra-side/hellron2-b",
+	"difficulties": [
+		"FLIP"
+	],
+	"port": "extra-side/bloodshed-two-b",
+	"color": "#0020C0",
+	"modlink": "https://gamebanana.com/mods/540473",
+	"version": "Extra-Side"
+}

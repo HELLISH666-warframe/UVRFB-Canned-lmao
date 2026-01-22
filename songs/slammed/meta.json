@@ -1,0 +1,12 @@
+{
+	"displayName": "slammed",
+	"bpm": 150.0,
+	"icon": "bambi",
+	"difficulties": [
+		"HARD",
+		"2.5"
+	],
+	"port": "slammed",
+	"color": "#007F40",
+	"version": "V3/2.5/Unknown"
+}

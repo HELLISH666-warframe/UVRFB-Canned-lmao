@@ -1,0 +1,8 @@
+{
+	"displayName": "Bleeding-classic-old",
+	"bpm": 200.0,
+	"icon": "hellron-classic",
+	"port": "bleeding-classic",
+	"color": "#010000",
+	"classic":true
+}

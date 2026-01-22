@@ -1,0 +1,13 @@
+{
+	"displayName": "atelophobia",
+	"bpm": 100.0,
+	"icon": "ateloron",
+	"port": "file-manipulation",
+	"difficulties": [
+		"V1",
+		"HARD"
+	],
+	"color": "#000000",
+	"version": "V2/2.5",
+	"classic":true
+}

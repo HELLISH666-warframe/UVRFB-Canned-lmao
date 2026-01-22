@@ -1,0 +1,15 @@
+<!DOCTYPE codename-engine-character>
+<character x="-130" y="120" sprite="grayBoy" flipX="true" camx="120" camy="-60" icon="gbf" color="#FFFFFF">
+	<anim name="idle" anim="Gray BF Idle" x="-5" y="120" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="Gray BF Left" x="101" y="122" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="Gray BF Down" x="90" y="129" fps="24" loop="false"/>
+	<anim name="singUP" anim="Gray BF Up" x="-11" y="303" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="Gray BF Right" x="-20" y="124" fps="24" loop="false"/>
+	<anim name="singLEFTmiss" anim="Gray BF Miss" x="-19" y="109" fps="24" loop="false"/>
+	<anim name="singDOWNmiss" anim="Gray BF Miss" x="-19" y="109" fps="24" loop="false"/>
+	<anim name="singUPmiss" anim="Gray BF Miss" x="-19" y="109" fps="24" loop="false"/>
+	<anim name="singRIGHTmiss" anim="Gray BF Miss" x="-19" y="109" fps="24" loop="false"/>
+	<anim name="firstDeath" anim="Gray BF Death" x="0" y="120" fps="24" loop="false"/>
+	<anim name="deathLoop" anim="Gray BF Death" x="0" y="120" fps="24" loop="false"/>
+	<anim name="deathConfirm" anim="Gray BF Death" x="0" y="120" fps="24" loop="false"/>
+</character>

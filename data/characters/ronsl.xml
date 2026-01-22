@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<character x="800" y="150" sprite="ronslaught-pov" antialiasing="false" camx="-170" camy="179" icon="onslaughthell" color="#EEE3E3" isGF="false">
+	<anim name="idle" anim="idle" x="0" y="0" fps="24" loop="true"/>
+	<anim name="singUP" anim="up" x="0" y="140" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="right" x="-190" y="-53" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="left" x="103" y="-52" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="down" x="-88" y="-137" fps="24" loop="false"/>
+</character>
+				

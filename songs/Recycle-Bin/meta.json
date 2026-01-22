@@ -1,0 +1,17 @@
+{
+	"port": "file-manipulation",
+	"classic": true,
+	"color": "#F6B604",
+	"version": "V2.5",
+	"opponentModeAllowed": false,
+	"difficulties": [
+		"2.5"
+	],
+	"icon": "ron-usb",
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "Recycle-Bin",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 185
+}

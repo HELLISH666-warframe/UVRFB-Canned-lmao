@@ -1,0 +1,20 @@
+{
+	"port": "file-manipulation",
+	"classic": true,
+	"color": "#000000",
+	"version": "V2/2.5",
+	"opponentModeAllowed": false,
+	"icon": "ateloron",
+	"difficulties": [
+		"HARD"
+	],
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "atelophobia",
+	"variants": [
+		"V1"
+	],
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 100
+}

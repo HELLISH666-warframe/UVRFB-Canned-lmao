@@ -1,0 +1,13 @@
+{
+	"displayName": "bloodshed-d",
+	"bpm": 170.0,
+	"icon": "techne",
+	"difficulties": [
+		"STAINED"
+	],
+	"port": "thanks_azer!/d-sides",
+	"color": "#000000",
+	"modlink": "https://gamebanana.com/mods/530993",
+	"version": "dsideron",
+	"normalport":true
+}

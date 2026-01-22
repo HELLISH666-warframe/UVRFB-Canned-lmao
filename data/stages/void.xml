@@ -1,0 +1,4 @@
+<!DOCTYPE codename-engine-stage>
+<stage name="baka" zoom="0.5" folder="stages/2.5_stuff/">
+	<sprite name="bg" x="300" y="200" sprite="effect" />
+</stage>

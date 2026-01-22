@@ -1,0 +1,17 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.7" folder="stages/">
+    <sprite name="bg" x="0" y="0" sprite="atelo/atelo_bg" scroll="0.05" type="loop" scale="2"/>
+        <anim name="bg" anim="bg instance 1" loop="true"/>
+    <sprite name="popup" x="0" y="0" sprite="atelo/atelo_popup_animated" scroll="0.05" type="loop" scale="4"/>
+        <anim name="popup" anim="popups instance 1" loop="true"/>
+    <sprite name="lamp" x="900" y="100" sprite="atelo/atelo_lamp" scroll="0.9" type="loop" scale="2"/>
+        <anim name="lamp" anim="lamppost instance 1" loop="true"/>
+    <sprite name="ground" x="-140" y="-9" sprite="atelo/atelo_ground" scroll="0.9" scale="2"/>
+    <sprite name="error" x="900" y="550" sprite="trojan-virus/error" scroll="1" type="loop" scale="2" />
+         <anim name="error instance  " anim="error instance " loop="true"/>
+    <sprite name="error2" x="-650" y="550" sprite="trojan-virus/error" scroll="1" type="loop" scale="2" />
+         <anim name="error instance  " anim="error instance " loop="true"/>
+    <girlfriend/>
+    <dad/>
+	<boyfriend/>
+</stage>

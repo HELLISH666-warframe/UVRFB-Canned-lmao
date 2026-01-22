@@ -1,0 +1,15 @@
+{
+	"displayName": "bloodsehd-b-old",
+	"bpm": 135.0,
+	"icon": "godron",
+	"difficulties": [
+		"EASY",
+		"NORMAL",
+		"HARD",
+		"V3",
+		"V4",
+		"V5"
+	],
+	"port": "bloodshed",
+	"version": "V2.5/3"
+}

@@ -1,0 +1,12 @@
+{
+	"displayName": "trojan-virus-erect",
+	"bpm": 180.0,
+	"icon": "face",
+	"difficulties": [
+		"ERECT"
+	],
+	"port": "extra-side/trojan-virus-erect",
+	"color": "#0020C0",
+	"modlink": "https://gamebanana.com/mods/540473",
+	"version": "Extra-Side"
+}

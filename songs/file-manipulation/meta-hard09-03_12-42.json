@@ -1,0 +1,19 @@
+{
+	"port": "file-manipulation",
+	"classic": true,
+	"color": "#C02078",
+	"version": "V2.5",
+	"opponentModeAllowed": false,
+	"icon": "ateloron",
+	"difficulties": [
+		"HARD",
+		"2.5",
+		"FLIP"
+	],
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "file-manipulation",
+	"beatsPerMeasure": 4,
+	"needsVoices": true,
+	"bpm": 230
+}

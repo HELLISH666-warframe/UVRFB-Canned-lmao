@@ -1,0 +1,10 @@
+{
+	"displayName": "file-manipulation",
+	"bpm": 230.0,
+	"icon": "ateloron",
+	"port": "file-manipulation",
+	"color": "#C02078",
+	"version": "V2.5",
+	"credits_old":"Rareblin",
+	"classic":true
+}

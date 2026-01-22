@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<!-- Made with WizardMantis's Character Converter on https://codename-engine.com/ -->
+<character sprite="hellron-pov" icon="onslaughthell" color="#FF000000" x="-300" camx="-120" camy="20" holdTime="6.1">
+	<anim name="idle" anim="idle" fps="24"/>
+	<anim name="singUP" anim="up" fps="24" x="120" y="72"/>
+	<anim name="singDOWN" anim="down" fps="24" x="20" y="-195"/>
+	<anim name="singLEFT" anim="right" fps="24" x="-70" y="-77"/>
+	<anim name="singRIGHT" anim="left" fps="24" x="214" y="-50"/>
+</character>

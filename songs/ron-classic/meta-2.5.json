@@ -1,0 +1,14 @@
+{
+	"displayName": "ron-classic",
+	"bpm": 186.0,
+	"difficulties": [
+		"HARD",
+		"2.5"
+	],
+	"icon": "ron-classic",
+	"port": "ron-classic",
+	"color": "#fbff0b",
+	"version":"V3/2.5(events)",
+	"credits_old":"Sic",
+	"classic":true
+}

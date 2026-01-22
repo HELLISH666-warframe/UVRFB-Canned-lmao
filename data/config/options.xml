@@ -1,0 +1,33 @@
+<!DOCTYPE codename-mod-options>
+<menu name="Options in a cool way" desc="Shaders and misc.">
+    <menu name="Shaders" desc="Shaders.">
+        <checkbox id="glitch" name="Glitch Shaders" desc="Enable/Disable Glitch Shaders."/>
+        <checkbox id="chrom" name="chromatic aberration" desc="Toggle the chromatic aberration Shader."/>
+	    <number id="chromeOffset" name="rgbintense" min="0.5" max="2" change="0.1"/>
+	    <checkbox id="mosaic" name="Mosaic Shader" desc="Toggle the mosaic shader in pretty wacky"/> 
+        <checkbox id="crt" name="CRT Shader" desc="Toggle the crt shader."/>
+        <checkbox id="colour" name="8bitcolor" desc="8bitcolor_shader"/>
+	    <checkbox id="vhs" name="VHS Shader" desc="Toggle the VHS Shader."/>
+	    <checkbox id="rain" name="RAIN" desc="Toggle the rain shader."/>
+    </menu>
+	<menu name="Fan-mod stuff." desc="Edit settings for fan-made content.">
+	<menu name="Ron D-sides." desc="Edit settings for Ron-dsides content.">
+	    <checkbox id="annoyingshit" name="Distractions." desc="Toggle things covering the hud."/>
+	</menu>
+    </menu>
+	<checkbox id="warning" name="Warnings" desc="Toggle the startup warning.(WIP)"/>
+	<checkbox id="friendly" name="Friendly" desc="He is a fiiendly fellow."/>
+	<checkbox id="rtx" name="rtx" desc="So your not trapped in hell when rtx is on.(WIP)"/>
+	<number id="hitWindow" name="hitWindow" desc="hitWindow" min="10" max="250" change="10"/>
+	<menu name="Window stuff." desc="Rather or not the mod does funny window stuff.">
+        <checkbox id="window_alpha" name="Window alpha" desc="Enable/Disable window alpha changes."/>
+    </menu>
+	<choice id="version" name="Menu versions">
+		<value name="V1" value="1"/>
+		<value name="V2" value="2"/>
+		<value name="V2.5" value="2.5"/>
+		<value name="V3" value="3"/>
+		<value name="???" value="4"/>
+		<value name="Extraside" value="3"/>
+	</choice>
+</menu>

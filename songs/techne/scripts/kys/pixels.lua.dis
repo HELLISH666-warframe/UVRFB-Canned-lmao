@@ -1,0 +1,60 @@
+local pixelAmount = 0
+local randomSize = 1
+
+function onBeatHit()
+
+    if curBeat == 104 then
+
+        runTimer('Hello', 2)
+
+    end
+
+end
+
+function createPixel()
+
+    randomSize = math.random(5, 50)
+
+    if curBeat >= 104 and curBeat < 172 then
+
+        pixelAmount = pixelAmount + 1
+
+        makeLuaSprite('pixel' .. pixelAmount, 'bgs/giggad/pixel', math.random(-2000, 2000), -1000);
+        setLuaSpriteScrollFactor('pixel' .. pixelAmount, 0.2, 0.2);
+        setObjectOrder('pixel' .. pixelAmount, 600)
+        scaleObject('pixel' .. pixelAmount, randomSize, randomSize)
+        setProperty('pixel' .. pixelAmount .. '.alpha', 0.5)
+        setProperty('pixel' .. pixelAmount .. '.antialiasing', false)
+
+        addLuaSprite('pixel' .. pixelAmount, true)
+
+        doTweenY('wee' .. pixelAmount, 'pixel' .. pixelAmount, -12000, 2)
+
+        runTimer('GOAWAY' .. pixelAmount, 5)
+        runTimer('newOne' .. pixelAmount, 0.005)
+
+    end
+
+end
+
+function destroyPixel()
+
+    removeLuaSprite('pixel' .. pixelAmount, true)
+
+end
+
+function onTimerCompleted(tag, loops, loopsleft)
+
+    if tag == 'GOAWAY' .. pixelAmount then
+        
+        destroyPixel()
+
+    end
+
+    if tag == 'Hello' or tag == 'newOne' .. pixelAmount then
+        
+        createPixel()
+
+    end
+
+end

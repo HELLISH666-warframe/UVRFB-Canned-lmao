@@ -1,0 +1,13 @@
+{
+	"displayName": "anti-piracy",
+	"bpm": 100.0,
+	"icon": "hellron",
+	"difficulties": [
+		"2.5"
+	],
+	"port": "anti-piracy",
+	"color": "#000000",
+	"version": "V2.5",
+	"credits_old":"BlueBoyeet",
+	"classic":true
+}

@@ -1,0 +1,12 @@
+{
+	"displayName": "ayo-erect",
+	"bpm": 135.0,
+	"icon": "ronmad",
+	"difficulties": [
+		"ERECT"
+	],
+	"port": "extra-side/ayo-erect",
+	"color": "#F6B604",
+	"modlink": "https://gamebanana.com/mods/540473",
+	"version": "Extra-Side"
+}

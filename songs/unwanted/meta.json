@@ -1,0 +1,12 @@
+{
+	"displayName": "unwanted",
+	"bpm": 170.0,
+	"icon": "ronslightly",
+	"difficulties": [
+		"COOL"
+	],
+	"port": "extra-side/unwanted",
+	"color": "#F00000",
+	"modlink": "https://gamebanana.com/mods/540473",
+	"version": "Extra-Side"
+}

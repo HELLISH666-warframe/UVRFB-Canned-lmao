@@ -1,0 +1,12 @@
+{
+	"displayName": "ron-bsides",
+	"bpm": 100.0,
+	"icon": "ron-b",
+	"difficulties": [
+		"V1",
+		"V2",
+		"V3"
+	],
+	"port": "thanks_azer!/ron-b",
+	"version": "V2/2.5/3"
+}

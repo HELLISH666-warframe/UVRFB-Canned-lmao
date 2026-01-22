@@ -1,0 +1,12 @@
+{
+	"displayName": "ayo",
+	"bpm": 150.0,
+	"icon": "ronmad",
+	"difficulties": [
+		"HARD",
+		"2.5"
+	],
+	"port": "ayo",
+	"color": "#8B4513",
+	"version": "V3/2.5"
+}

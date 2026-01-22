@@ -1,0 +1,9 @@
+{
+	"displayName": "scrub-of-the-day",
+	"bpm": 150.0,
+	"icon": "bijuuron",
+	"port": "bijuu",
+	"color": "#00B439",
+	"version": "V2.5",
+	"classic":true
+}

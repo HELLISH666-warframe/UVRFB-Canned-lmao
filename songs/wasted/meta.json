@@ -1,0 +1,14 @@
+{
+	"displayName": "wasted",
+    "bpm": 210.0,
+	"icon": "ronslightly",
+	"difficulties": [
+		"2.5",
+		"FLIP",
+		"HARD",
+		"V4"
+	],
+	"port": "wasted",
+	"color": "#F6B604",
+	"version": "V2.5/3/4"
+}

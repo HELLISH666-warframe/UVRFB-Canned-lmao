@@ -1,0 +1,13 @@
+{
+	"displayName": "pretty-wacky",
+	"bpm": 130.0,
+	"icon": "douyhe",
+	"difficulties": [
+		"V1",
+		"V2",
+		"HARD"
+	],
+	"port": "pretty-wacky",
+	"color": "#FFFFFF",
+	"version": "Demo/2.5/3"
+}

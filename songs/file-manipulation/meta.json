@@ -1,0 +1,14 @@
+{
+	"displayName": "file-manipulation",
+	"bpm": 230.0,
+	"icon": "ateloron",
+	"port": "file-manipulation",
+	"difficulties": [
+		"HARD",
+		"2.5",
+		"FLIP"
+	],
+	"color": "#C02078",
+	"version": "V2.5",
+	"classic":true
+}

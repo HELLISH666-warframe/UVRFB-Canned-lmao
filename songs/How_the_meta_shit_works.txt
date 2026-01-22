@@ -1,0 +1,6 @@
+"version": Used to indacate what versions the songs are from and what versions are ported.
+"classic": Used to turn off the v3 healthbar and have the kade hud.
+"port": What freeplay portrait the freeplay gets for that song.
+"modlink": What link opens when you press shift on the song in freeplay.
+"normalport": Tweens the port like it's an offical one in the fan-made section.
+"noHealthBar": Turns off just the v3 healthbar.

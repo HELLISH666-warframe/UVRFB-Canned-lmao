@@ -1,0 +1,11 @@
+<!DOCTYPE codename-engine-character>
+<!-- Made with WizardMantis's Character Converter on https://codename-engine.com/ -->
+<character sprite="2.5/factorytankman" icon="2.5/iconGrid" color="#FF000000" x="70" y="250" camx="100" camy="20" holdTime="6.1">
+	<anim name="idle" anim="Idle" fps="24"/>
+	<anim name="singUP" anim="Sing Up" fps="24" x="42" y="38"/>
+	<anim name="singDOWN" anim="Sing Down" fps="24" x="40" y="-120"/>
+	<anim name="singLEFT" anim="Sing Left" fps="24" x="98" y="-27"/>
+	<anim name="singRIGHT" anim="Sing Right" fps="24" x="-89" y="-51"/>
+	<anim name="cheer" anim="Ugh" fps="24" x="71" y="-40"/>
+	<anim name="Ugh" anim="cheer" fps="24" x="71" y="-40"/>
+</character>

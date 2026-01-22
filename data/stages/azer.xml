@@ -1,0 +1,13 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.8" folder="stages">
+     <girlfriend />
+	<sprite name="bruj" x="300" y="300" sprite="madStreet/bruj" scroll="1"  type="loop" scale="4"/>
+        <anim name="bruj" anim="bruj" loop="true"/>
+    <sprite name="platform" x="-600" y="70" sprite="madStreet/platform" scroll="1" scale="1" />
+    <dad/>
+	<boyfriend />
+	 <sprite name="error" x="1000" y="900" sprite="madStreet-virus/error" scroll="1" type="loop" scale="2" />
+    <anim name="error instance  " anim="error instance " loop="true"/>
+	 <sprite name="windows_anim" x="450" y="340" sprite="azer_stuff/windows_anim" scroll="1"  type="loop" scale="2.5" fps="2"/>
+             <anim name="instance" anim="instance" loop="true"/>
+</stage>

@@ -1,0 +1,14 @@
+{
+	"displayName": "Bloodshed",
+	"bpm": 170.0,
+	"icon": "hellron",
+	"difficulties": [
+		"TWO",
+		"HARD"
+	],
+	"port": "bloodshed",
+	"color": "#000000",
+	"credits_old":"BlueBoyeet",
+	"classic":true,
+	"version": "V2.5/3"
+}

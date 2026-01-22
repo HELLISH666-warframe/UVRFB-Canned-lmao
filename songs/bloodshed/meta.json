@@ -1,0 +1,13 @@
+{
+	"displayName": "Bloodshed",
+	"bpm": 170.0,
+	"icon": "hellron",
+	"difficulties": [
+		"HARD",
+		"TWO",
+		"2.5"
+	],
+	"port": "bloodshed",
+	"color": "#000000",
+	"version": "V3/2.5"
+}

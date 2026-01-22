@@ -1,0 +1,15 @@
+{
+	"displayName": "backdoor",
+	"bpm": 180.0,
+	"icon": "power_conall",
+	"difficulties": [
+		"STAINED"
+	],
+	"port": "fucking_useless",
+	"color": "#000000",
+	"coopAllowed": true,
+	"opponentModeAllowed": true,
+	"modlink": "https://gamebanana.com/mods/530993",
+	"version": "dsideron",
+	"normalport":true
+}

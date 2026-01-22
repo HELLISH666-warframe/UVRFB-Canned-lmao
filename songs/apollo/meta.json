@@ -1,0 +1,11 @@
+{
+	"displayName": "apollo",
+	"bpm": 185.0,
+	"icon": "apollo",
+	"port": "thanks_azer!/apollo",
+	"color": "#000000",
+	"modlink": "https://gamebanana.com/mods/530993",
+	"version": "dsideron",
+	"noHealthBar":true,
+	"normalport":true
+}

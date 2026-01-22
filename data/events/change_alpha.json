@@ -1,0 +1,17 @@
+{
+	"params": [
+		{
+			"name": "alpha",
+			"type": "String",
+			"defaultValue": 1
+		}, {
+			"name": "object",
+			"type": "String",
+			"defaultValue": null
+		}, {
+			"name": "speed",
+			"type": "String",
+			"defaultValue": null
+		}
+	]
+}

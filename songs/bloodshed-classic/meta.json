@@ -1,0 +1,8 @@
+{
+	"displayName": "Bloodshed-classic",
+	"bpm": 170.0,
+	"icon": "hellron-classic",
+	"port": "bloodshed-classic",
+	"color": "#280000",
+	"classic":true
+}

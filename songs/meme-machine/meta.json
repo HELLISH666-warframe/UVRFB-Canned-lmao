@@ -1,0 +1,10 @@
+{
+	"displayName": "meme-machine",
+	"bpm": 150.0,
+	"icon": "bambi",
+	"port": "slammed",
+	"color": "#007F40",
+	"version": "V2.5",
+	"credits_old":"Tigression",
+	"classic":true
+}

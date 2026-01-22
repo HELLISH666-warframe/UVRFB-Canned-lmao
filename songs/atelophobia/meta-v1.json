@@ -1,0 +1,16 @@
+{
+	"opponentModeAllowed": true,
+	"icon": "ateloron",
+	"difficulties": [
+		"V1"
+	],
+	"color": "#000000",
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"displayName": "atelophobia",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 120,
+	"instSuffix": "-V1",
+	"vocalsSuffix": "-V1"
+}

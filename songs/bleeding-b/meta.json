@@ -1,0 +1,12 @@
+{
+	"displayName": "bleeding-b",
+	"bpm": 230.0,
+	"icon": "face",
+	"difficulties": [
+		"FLIP"
+	],
+	"port": "extra-side/bleeding-b",
+	"color": "#0020C0",
+	"modlink": "https://gamebanana.com/mods/540473",
+	"version": "Extra-Side"
+}

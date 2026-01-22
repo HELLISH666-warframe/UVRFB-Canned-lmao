@@ -1,0 +1,56 @@
+local cloudAmount = 0
+
+function onBeatHit()
+
+    if curBeat == 104 then
+
+        runTimer('Hello', 2)
+
+    end
+
+end
+
+function createCloud()
+
+    if curBeat >= 104 and curBeat < 172 then
+
+        cloudAmount = cloudAmount + 1
+
+        makeLuaSprite('cloud1' .. cloudAmount, 'bgs/giggad/cloud1', math.random(-2000, 2000), -1000);
+        setLuaSpriteScrollFactor('cloud1' .. cloudAmount, 0.2, 0.2);
+        setObjectOrder('cloud1' .. cloudAmount, 600)
+        scaleObject('cloud1' .. cloudAmount, 3, 3)
+        setProperty('cloud1' .. cloudAmount .. '.alpha', 0.5)
+
+        addLuaSprite('cloud1' .. cloudAmount, true)
+
+        doTweenY('wee' .. cloudAmount, 'cloud1' .. cloudAmount, -12000, 2)
+
+        runTimer('GOAWAY' .. cloudAmount, 2)
+        runTimer('newOne' .. cloudAmount, 0.1)
+
+    end
+
+end
+
+function destroyCloud()
+
+    removeLuaSprite('cloud1' .. cloudAmount, true)
+
+end
+
+function onTimerCompleted(tag, loops, loopsleft)
+
+    if tag == 'GOAWAY' .. cloudAmount then
+        
+        destroyCloud()
+
+    end
+
+    if tag == 'Hello' or tag == 'newOne' .. cloudAmount then
+        
+        createCloud()
+
+    end
+
+end

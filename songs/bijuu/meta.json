@@ -1,0 +1,11 @@
+{
+	"displayName": "Bijuu",
+	"bpm": 186.0,
+	"icon": "bijuuron",
+	"difficulties": [
+		"HARD"
+	],
+	"port": "bijuu",
+	"color": "#00B439",
+	"version": "2.5/V3"
+}

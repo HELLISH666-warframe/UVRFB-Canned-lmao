@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="windows_anim.png">
+<SubTexture name="instance0000" x="0" y="0" width="800" height="450" frameX="0" frameY="0" frameWidth="800" frameHeight="450" />
+<SubTexture name="instance0001" x="1735" y="538" width="62" height="103" frameX="0" frameY="-187" frameWidth="800" frameHeight="450" />
+<SubTexture name="instance0002" x="1600" y="644" width="218" height="103" frameX="0" frameY="-187" frameWidth="800" frameHeight="450" />
+<SubTexture name="instance0003" x="254" y="1494" width="253" height="101" frameX="-124" frameY="-188" frameWidth="800" frameHeight="450" />
+<SubTexture name="instance0004" x="1267" y="1494" width="253" height="98" frameX="-269" frameY="-189" frameWidth="800" frameHeight="450" />
+<SubTexture name="instance0005" x="761" y="1494" width="252" height="99" frameX="-354" frameY="-189" frameWidth="800" frameHeight="450" />
+<SubTexture name="instance0006" x="0" y="1494" width="254" height="102" frameX="-498" frameY="-188" frameWidth="800" frameHeight="450" />
+<SubTexture name="instance0007" x="1600" y="953" width="146" height="102" frameX="-654" frameY="-188" frameWidth="800" frameHeight="450" />
+<SubTexture name="instance0008" x="0" y="0" width="800" height="450" frameX="0" frameY="0" frameWidth="800" frameHeight="450" />
+<SubTexture name="instance0009" x="0" y="0" width="800" height="450" frameX="0" frameY="0" frameWidth="800" frameHeight="450" />
+<SubTexture name="instance0010" x="1773" y="431" width="64" height="104" frameX="0" frameY="-346" frameWidth="800" frameHeight="450" />
+<SubTexture name="instance0011" x="1600" y="538" width="135" height="106" frameX="0" frameY="-344" frameWidth="800" frameHeight="450" />
+<SubTexture name="instance0012" x="1600" y="0" width="252" height="108" frameX="-32" frameY="-342" frameWidth="800" frameHeight="450" />
+<SubTexture name="instance0013" x="800" y="899" width="249" height="109" frameX="-189" frameY="-341" frameWidth="800" frameHeight="450" />
+<SubTexture name="instance0014" x="800" y="1008" width="582" height="109" frameX="0" frameY="-341" frameWidth="800" frameHeight="450" />
+<SubTexture name="instance0015" x="0" y="1167" width="706" height="109" frameX="-32" frameY="-341" frameWidth="800" frameHeight="450" />
+<SubTexture name="instance0016" x="706" y="1167" width="695" height="109" frameX="-105" frameY="-341" frameWidth="800" frameHeight="450" />
+<SubTexture name="instance0017" x="1049" y="899" width="540" height="109" frameX="-260" frameY="-341" frameWidth="800" frameHeight="450" />
+<SubTexture name="instance0018" x="0" y="1276" width="250" height="109" frameX="-416" frameY="-341" frameWidth="800" frameHeight="450" />
+<SubTexture name="instance0019" x="800" y="0" width="800" height="449" frameX="0" frameY="-1" frameWidth="800" frameHeight="450" />
+<SubTexture name="instance0020" x="800" y="450" width="800" height="448" frameX="0" frameY="-2" frameWidth="800" frameHeight="450" />
+<SubTexture name="instance0021" x="1600" y="1055" width="249" height="102" frameX="-148" frameY="-9" frameWidth="800" frameHeight="450" />
+<SubTexture name="instance0022" x="1600" y="1157" width="248" height="100" frameX="-220" frameY="-11" frameWidth="800" frameHeight="450" />
+<SubTexture name="instance0023" x="1600" y="1257" width="249" height="100" frameX="-379" frameY="-10" frameWidth="800" frameHeight="450" />
+<SubTexture name="instance0024" x="1600" y="324" width="252" height="107" frameX="-521" frameY="-3" frameWidth="800" frameHeight="450" />
+<SubTexture name="instance0025" x="0" y="450" width="800" height="449" frameX="0" frameY="-1" frameWidth="800" frameHeight="450" />
+<SubTexture name="instance0026" x="1600" y="108" width="216" height="108" frameX="0" frameY="-342" frameWidth="800" frameHeight="450" />
+<SubTexture name="instance0027" x="1600" y="216" width="252" height="108" frameX="-32" frameY="-342" frameWidth="800" frameHeight="450" />
+<SubTexture name="instance0028" x="250" y="1276" width="438" height="109" frameX="0" frameY="-341" frameWidth="800" frameHeight="450" />
+<SubTexture name="instance0029" x="688" y="1276" width="582" height="109" frameX="0" frameY="-341" frameWidth="800" frameHeight="450" />
+<SubTexture name="instance0030" x="0" y="1385" width="629" height="109" frameX="-108" frameY="-341" frameWidth="800" frameHeight="450" />
+<SubTexture name="instance0031" x="629" y="1385" width="536" height="109" frameX="-264" frameY="-341" frameWidth="800" frameHeight="450" />
+<SubTexture name="instance0032" x="1165" y="1385" width="392" height="109" frameX="-408" frameY="-341" frameWidth="800" frameHeight="450" />
+<SubTexture name="instance0033" x="1270" y="1276" width="253" height="109" frameX="-489" frameY="-341" frameWidth="800" frameHeight="450" />
+<SubTexture name="instance0034" x="1600" y="431" width="173" height="107" frameX="-627" frameY="-343" frameWidth="800" frameHeight="450" />
+<SubTexture name="instance0035" x="0" y="899" width="800" height="268" frameX="0" frameY="-182" frameWidth="800" frameHeight="450" />
+<SubTexture name="instance0036" x="1600" y="1357" width="252" height="100" frameX="-100" frameY="-183" frameWidth="800" frameHeight="450" />
+<SubTexture name="instance0037" x="1013" y="1494" width="254" height="99" frameX="-224" frameY="-183" frameWidth="800" frameHeight="450" />
+<SubTexture name="instance0038" x="1520" y="1494" width="252" height="98" frameX="-298" frameY="-184" frameWidth="800" frameHeight="450" />
+<SubTexture name="instance0039" x="507" y="1494" width="254" height="100" frameX="-422" frameY="-183" frameWidth="800" frameHeight="450" />
+<SubTexture name="instance0040" x="1600" y="747" width="243" height="103" frameX="-557" frameY="-182" frameWidth="800" frameHeight="450" />
+<SubTexture name="instance0041" x="1600" y="850" width="107" height="103" frameX="-693" frameY="-182" frameWidth="800" frameHeight="450" />
+<SubTexture name="instance0042" x="0" y="0" width="800" height="450" frameX="0" frameY="0" frameWidth="800" frameHeight="450" />
+</TextureAtlas>
